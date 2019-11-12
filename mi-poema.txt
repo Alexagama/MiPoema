@@ -1,6 +1,7 @@
 Oh sí
 Cualquier cosa
 Cualquier otra cosa
+Muchas otras cosas (linea agrega con "nano" cmd)
 Todo sea
 Por mi sensei
 Yeah
